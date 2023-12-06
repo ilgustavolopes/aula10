@@ -1,0 +1,23 @@
+/*inicio do cabecalho*/
+#cabecalho{
+    text-align:center;
+    color:white;
+    background-image:url("imagens/photo-1585468274952-66591eb14165.jfif");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:300px; 
+    width:100%;
+}
+p{
+    margin-top:-250px;
+    text-align:center;
+}
+/*fim do cabecalho*/
+/*inicio corpo da pagina*/
+body{
+    background-image:url("imagens/paisagemxp.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    color:white;
+}
+/*fim do corpo da pagina*/

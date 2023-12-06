@@ -1,0 +1,14 @@
+h1.titulo{
+    text-align: center;
+    background:black;
+    color:white;
+    font-family: Arial;
+}
+
+li a{
+    text-decoration:underline;
+}
+
+body{
+    background:yellow
+}

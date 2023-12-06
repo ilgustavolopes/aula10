@@ -1,0 +1,7 @@
+.borda1{
+    background:purple;
+}
+.borda1 td{
+    background:yellow;
+    border:10px solid #87ceeb;
+}

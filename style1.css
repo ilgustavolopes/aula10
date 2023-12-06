@@ -1,0 +1,17 @@
+body{
+    font-family: arial;
+    background-color: gray;
+}
+/*titulo*/
+h1{
+    background-color: black;
+    color:white;
+    text-align:center;
+}
+/*fim do titulo*/
+/*inicio texto inicial*/
+    h2{
+        color:black;
+        text-align:center;
+    }
+/*fim do texto inicial*/

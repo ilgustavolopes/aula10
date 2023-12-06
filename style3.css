@@ -1,0 +1,21 @@
+/*cor da pagina*/
+    body{
+        background:rgba(89, 220, 181, 0.767);
+    }
+/*fim da cor*/
+/*cabeçalho da pagina*/
+h1.titulo{
+   text-align:center;
+   background:black;
+   height: 100px;
+   width:100%;
+   color:white;
+   font-family: Arial;
+}
+/*fim do cabeçalho*/
+/*menu da pagina*/
+    p.home{
+        text-align:left;
+        font-family: arial;
+    }
+/*fim do menu*/

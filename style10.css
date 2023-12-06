@@ -1,0 +1,10 @@
+div.caixa1{
+        font-family:arial;
+        background-color: lightgrey;
+        width:300px;
+        padding:100px;
+        border:20px dotted navy;
+        margin:50px;
+        text-align:center;
+        text-indent:1.25cm;
+}

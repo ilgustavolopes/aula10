@@ -1,0 +1,23 @@
+body{
+    background:cyan;
+}
+ul.none{
+    background:gray;
+    font-family:arial;
+    list-style-type:none;
+}
+ul.disc{
+    background:greenyellow;
+    font-family:arial;
+    list-style-type: disc;
+}
+ul.decimal{
+    background:rebeccapurple;
+    font-family:arial;
+    list-style-type: decimal;
+}
+ul.square{
+    background:blanchedalmond;
+    font-family:arial;
+    list-style-type: square;
+}

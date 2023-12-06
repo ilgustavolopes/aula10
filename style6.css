@@ -1,0 +1,52 @@
+body{
+    background:firebrick;
+   }
+
+    p{
+    font-size:12pt;
+}
+    p::first-line {
+        color: blue; 
+        font-variant:small-caps;
+    }
+    
+     #img::before{ content: url(imagens/smile.png)}
+     #img::after{ content: url(imagens/smile.png)}
+
+     #texto::selection{
+        color:red; 
+        background:yellow;
+    }
+
+    .div{
+        background-image:url("imagens/smile.png");
+        background-repeat:no-repeat;
+        background-position:right top;
+    }
+
+    .div2{
+        background-image:url("imagens/paodequeijo.jfif");
+        background-repeat:no-repeat;
+        background-position:right top;
+    }
+
+
+
+
+
+
+     
+    
+     
+
+    
+     
+     
+     
+
+
+    
+    
+     
+
+     
